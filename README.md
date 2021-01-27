@@ -4,7 +4,7 @@
 
 ## Programming language :
 
-I code in Java and a little on JS.
+I code in Java and a little bit in JS.
 I learn C++ and Python 
 <!--
 **Alexiscomete/Alexiscomete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
