@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on a Minecraft plugin for a server named Steedland
 
+- Visit my web site: https://alexiscomete.github.io
+
 ## Programming language :
 
 I code in Java and a little bit in JS.
