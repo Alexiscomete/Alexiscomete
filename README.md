@@ -4,6 +4,8 @@
 
 - Visit my web site: https://alexiscomete.github.io
 
+- Haze : https://haze-code.com
+
 ## Programming language :
 
 I code in Java and a little bit in JS.
