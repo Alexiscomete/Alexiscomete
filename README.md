@@ -13,6 +13,13 @@ I learn C++ and Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexiscomete)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true)](https://github.com/shivam0110)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiscomete&show_icons=true)
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alexiscomete.Alexiscomete)
+
+
 <!--
 **Alexiscomete/Alexiscomete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
