@@ -19,7 +19,7 @@ I learn C++ and Python
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alexiscomete.Alexiscomete)
 
-https://skyline.github.io/alexiscomete/2021
+https://skyline.github.com/alexiscomete/2021
 
 
 <!--
