@@ -9,7 +9,7 @@
 ## Programming language :
 
 I code in Java and a little bit in JS.
-I learn C++ and Python 
+I learn C++, Python, Unity and Glua
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexiscomete)](https://github.com/ryo-ma/github-profile-trophy)
 
