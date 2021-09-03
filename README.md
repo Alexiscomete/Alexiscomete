@@ -15,6 +15,8 @@ I learn C++, Python, Unity and Glua
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true)](https://github.com/shivam0110)
 
+I have never code in ASP.NET but I have a repo with Unity
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiscomete&show_icons=true)
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alexiscomete.Alexiscomete)
