@@ -21,6 +21,7 @@ I learn C++, Python, Unity and Glua
 
 https://skyline.github.com/alexiscomete/2021
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Alexiscomete/Alexiscomete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
