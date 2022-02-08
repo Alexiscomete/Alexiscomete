@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Minecraft plugin for a server named Steedland
 
-- Visit my web site: https://alexiscomete.github.io
+- Visit my website: https://alexiscomete.github.io
 
 - Haze : https://haze-code.com
 
@@ -15,7 +15,7 @@ I learn C++, Python, Unity and Glua
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true)](https://github.com/shivam0110)
 
-I have never code in ASP.NET but I have a repo with Unity
+I have never coded in ASP.NET but I have a repo with Unity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiscomete&show_icons=true)
 
