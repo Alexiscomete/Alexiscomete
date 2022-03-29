@@ -25,7 +25,7 @@ https://skyline.github.com/alexiscomete/2021
 
 https://skyline.github.com/alexiscomete/2022
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=white)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=black)](https://git.io/streak-stats)
 
 <!--
 **Alexiscomete/Alexiscomete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
