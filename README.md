@@ -15,7 +15,7 @@ I learn C++, Python, Unity and Glua
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexiscomete)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Alexiscomete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexiscomete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I have never coded in ASP.NET but I have a repo with Unity. I have a lot of private repo so these stats are not complete 
 
