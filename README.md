@@ -2,18 +2,20 @@
 
 - 🔭 I’m currently working on a Minecraft plugin for a server named Steedland
 
-- Visit my website: https://alexiscomete.github.io
+- ~~do not~~ visit my website (I must update it):
 
-- Haze : https://haze-code.com
+https://alexiscomete.github.io
 
-## Programming language :
+## Programming languages :
 
 I code in Java and a little bit in JS.
 I learn C++, Python, Unity and Glua
 
+## Stats
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexiscomete)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Alexiscomete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexiscomete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I have never coded in ASP.NET but I have a repo with Unity. I have a lot of private repo so these stats are not complete 
 
@@ -21,9 +23,13 @@ I have never coded in ASP.NET but I have a repo with Unity. I have a lot of priv
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alexiscomete.Alexiscomete)
 
+## My skylines ❤
+
 https://skyline.github.com/alexiscomete/2021
 
 https://skyline.github.com/alexiscomete/2022
+
+## My personnal objectif
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=black)](https://git.io/streak-stats)
 
