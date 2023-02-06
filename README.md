@@ -17,10 +17,6 @@ I learn C++, Python, Unity and Glua
 
 [![Alexiscomete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I have never coded in ASP.NET but I have a repo with Unity. I have a lot of private repo so these stats are not complete 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiscomete&show_icons=true)
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alexiscomete.Alexiscomete)
 
 ## My skylines ❤
@@ -33,17 +29,6 @@ https://skyline.github.com/alexiscomete/2022
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=black)](https://git.io/streak-stats)
 
-<!--
-**Alexiscomete/Alexiscomete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Other informations
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](https://metrics.lecoq.io/Alexiscomete?template=classic&languages=1&achievements=1&lines=1&isocalendar=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=ASP.NET&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
