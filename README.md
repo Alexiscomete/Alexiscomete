@@ -1,29 +1,23 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Minecraft plugin for a server named Steedland
-
-- ~~do not~~ visit my website (I must update it):
-
-https://alexiscomete.github.io
+- 🔭 I’m currently working on a Discord bot named Lapinou second
+- You can visit [my web site](https://alexiscomete.github.io). BUT I must update it.
 
 ## Programming languages :
 
-I code in Java and a little bit in JS.
-I learn C++, Python, Unity and Glua
+I code mainly in Kotlin and Java. I can use Python (school) and JS.
 
 ## Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexiscomete)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Alexiscomete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexiscomete&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alexiscomete.Alexiscomete)
 
 ## My skylines ❤
 
-https://skyline.github.com/alexiscomete/2021
-
-https://skyline.github.com/alexiscomete/2022
+- [2021](https://skyline.github.com/alexiscomete/2021)
+- [2022](https://skyline.github.com/alexiscomete/2022)
+- [2023](https://skyline.github.com/alexiscomete/2023)
 
 ## My personnal objectif
 
