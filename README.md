@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Discord bot named Lapinou second
+- 🔭 I’m currently working on a Discord bot named Lapinou second.
 - You can visit [my web site](https://alexiscomete.github.io). BUT I must update it.
 
 ## Programming languages :
@@ -19,7 +19,7 @@ I code mainly in Kotlin and Java. I can use Python (school) and JS.
 - [2022](https://skyline.github.com/alexiscomete/2022)
 - [2023](https://skyline.github.com/alexiscomete/2023)
 
-## My personnal objectif
+## My personal objectif
 
 [![GitHub Streak. If you can't see this, try to click on the link](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=black)](https://git.io/streak-stats)
 
