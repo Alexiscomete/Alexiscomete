@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working (programming language)[https://github.com/Dibi-programming-language] named `Skribi` and a private project for school
+- 🔭 I’m currently working [programming language](https://github.com/Dibi-programming-language) named `Skribi` and a private project for school
 - My website has not been updated for 2 years. And this was just a beta (or less). However, you can visit [it](https://alexiscomete.github.io). Since the last update, I have created some other websites for small projects.
-- My biggest project is (this)[https://github.com/Alexiscomete/A-Discord-Adventure] (two years of code). I don't have the time to make it active.
+- My biggest project is [this](https://github.com/Alexiscomete/A-Discord-Adventure) (two years of code). I don't have the time to make it active.
 
 ## Programming languages
 
@@ -12,7 +12,7 @@ My favorite programming language is Kotlin. I used to code mainly in Kotlin and 
 
 Rust is used for my current project.
 
-Since September 2023, I have used (Wakatime)[https://wakatime.com/@Alexiscomete] on many devices. Not all. I also use it on Obsidian for Markdown, so you can ignore Markdown for the programming languages.
+Since September 2023, I have used [Wakatime](https://wakatime.com/@Alexiscomete) on many devices. Not all. I also use it on Obsidian for Markdown, so you can ignore Markdown for the programming languages.
 
 ## Stats
 
