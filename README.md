@@ -1,11 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Discord bot named Lapinou second
-- You can visit [my web site](https://alexiscomete.github.io). BUT I must update it.
+- 🔭 I’m currently working (programming language)[https://github.com/Dibi-programming-language] named `Skribi` and a private project for school
+- My website has not been updated for 2 years. And this was just a beta (or less). However, you can visit [it](https://alexiscomete.github.io). Since the last update, I have created some other websites for small projects.
+- My biggest project is (this)[https://github.com/Alexiscomete/A-Discord-Adventure] (two years of code). I don't have the time to make it active.
 
-## Programming languages :
+## Programming languages
 
-I code mainly in Kotlin and Java. I can use Python (school) and JS.
+[![wakatime](https://wakatime.com/badge/user/259bb599-9e10-4b9a-9e07-a72a66466330.svg)](https://wakatime.com/@259bb599-9e10-4b9a-9e07-a72a66466330)
+
+My favorite programming language is Kotlin. I used to code mainly in Kotlin and Java. I use Python, C#, and OCaml in school. Furthermore, I don't like JS, but I can use it.
+
+Rust is used for my current project.
+
+Since September 2023, I have used (Wakatime)[https://wakatime.com/@Alexiscomete] on many devices. Not all. I also use it on Obsidian for Markdown, so you can ignore Markdown for the programming languages.
 
 ## Stats
 
@@ -19,7 +26,7 @@ I code mainly in Kotlin and Java. I can use Python (school) and JS.
 - [2022](https://skyline.github.com/alexiscomete/2022)
 - [2023](https://skyline.github.com/alexiscomete/2023)
 
-## My personal goal
+## My last personal goal
 
 [![GitHub Streak. If you can't see this, try to click on the link](http://github-readme-streak-stats.herokuapp.com?user=Alexiscomete&theme=black)](https://git.io/streak-stats)
 
